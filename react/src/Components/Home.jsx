@@ -9,6 +9,9 @@ function Home(){
         <p>-DULHA CORNER-</p>
         </div>
         </div>
+        <div className="search-box">
+            <input type="text" name="search" id="search" placeholder='search for sherwani ' />
+        </div>
 
     </div>
     </>)
