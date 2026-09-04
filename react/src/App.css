@@ -17,18 +17,18 @@ body{
 display: flex;
 }
 #logo{
-  width: 17%;
+  width: 8%;
   margin-top: 3%;
   margin-left: 2%;
 
 }
 .logo-title{
-  margin-top: 5%;
-  margin-left: 2%;
+  margin-top: 4%;
+  margin-left: 1%;
   letter-spacing: 4px;
 }
 .logo-title h1{
-  font-size: 70px;
+  font-size: 45px;
   /* color: rgb(220, 215, 66); */
   color: #daa41b;
   letter-spacing: 4px;
@@ -36,7 +36,13 @@ display: flex;
 }
 .logo-title p{
   color: #daa41b;
-  font-size: 25px;
+  font-size: 15px;
 
 }
 
+/* .search-box{
+   padding: 7px;
+   width: 50%;
+   align-items: left;
+    justify-content: left;
+} */
