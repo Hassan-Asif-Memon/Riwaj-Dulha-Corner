@@ -40,9 +40,41 @@ display: flex;
 
 }
 
-/* .search-box{
-   padding: 7px;
-   width: 50%;
-   align-items: left;
-    justify-content: left;
-} */
+.search-box{
+   /* padding: 7px; */
+   width: 32%;
+   height: 6vh;
+   display: flex;
+   align-items: center;
+   border: 1px solid #daa41b;
+   padding: 0 15px;
+   margin-top: 3%;
+    /* justify-content: left; */
+}
+.search-box input{
+  width: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: white;
+  font-size: 0.9rem;
+}
+.search-box svg{
+  color: #c89b52;
+  font-size: 1rem;
+}
+.header-icons{
+  display: flex;
+  gap: 25px;
+}
+.header-icons div{
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.85rem;
+
+}
+.header-icons svg{
+  color: #d6ad69;
+  font-size: 1.3rem;
+}
