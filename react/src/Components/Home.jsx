@@ -30,8 +30,19 @@ function Home(){
             </div>
         </div>
         
+        </div>
+        <div className="nav">
+            <a href="#">HOME</a>
+            <a href="#">SHERWANI</a>
+            <a href="#">INDO WESTERN</a>
+            <a href="#">KURTA PAJAMA</a>
+            <a href="#">ACCESSORIES</a>
+            <a href="#">COLLECTIONS</a>
+            <a href="#">SALE</a>
+            <a href="#">CUSTOM STITCHING</a>
+            <a href="#">CONTACT US</a>
 
-    </div>
+        </div>
     </>)
 }
 export default Home;

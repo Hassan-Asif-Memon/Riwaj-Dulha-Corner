@@ -91,3 +91,10 @@ display: flex;
   color: #daa41b;
   font-size: 1.3rem;
 }
+.nav{
+/* display: flex; */
+  font-size: 12px;
+}
+.nav a{
+
+}
