@@ -41,7 +41,6 @@ function Home(){
             <a href="#">SALE</a>
             <a href="#">CUSTOM STITCHING</a>
             <a href="#">CONTACT US</a>
-
         </div>
     </>)
 }

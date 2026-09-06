@@ -21,6 +21,7 @@ body{
 }
 .logo{
 display: flex;
+align-items: center;
 }
 #logo{
   width: 12%;
@@ -58,7 +59,7 @@ display: flex;
    padding: 0 15px;
    position: absolute;
    left: 50%;
-   transform: translateX(-50%);
+   transform: translateX(-45%);
    margin-top: 5%;
   
     /* justify-content: left; */
@@ -78,6 +79,7 @@ display: flex;
 }
 .header-icons{
   display: flex;
+  align-items: center;
   gap: 25px;
 }
 .header-icons div{
@@ -92,9 +94,20 @@ display: flex;
   font-size: 1.3rem;
 }
 .nav{
-/* display: flex; */
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 40px;
+border-bottom: 1px solid #daa41b;
+border-top: 1px solid #daa41b;
   font-size: 12px;
+  background: #2b2929;
+  padding: 5px;
+  margin-top: 1%;
 }
 .nav a{
-
+text-decoration: none;
+/* gap: 12px; */
+color: #daa41b;
+font-size: 11px;
 }
